@@ -1,4 +1,4 @@
-### Hey! I'm [Salih!](https://www.salihkilicli.github.io)  & I love [Data :)](https://www.kaggle.com/math3mantic)
+#### Hey! I'm [Salih!](https://www.salihkilicli.github.io)  & I love [Data :)](https://www.kaggle.com/math3mantic)
 
 <a href="https://github.com/math3mantic">
   <img align="left" alt="Salih | Github" width="22px" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" />
@@ -17,11 +17,9 @@
 
 Hello, my name is **Salih Kilicli**. I am an Applied Mathematician and Aspiring Data Scientist 📈 📊 📉. This may sound crazy but I decided to leave my Ph.D. education in Mathematics @ Texas A&M University during a pandemic to be a Data Scientist/ML Engineer to follow my passion in AI.
 
-### Personal Octocat!
+## Personal Octocat!
 
-I hope you like my Texan octocat :] Actually, you can create your own octocat using https://myoctocat.com/
-
-<img align="right" alt="MyOctocat" width="250px" src="/octocat.png" />
+I hope you like my Texan octocat. Actually, you can create your own using https://myoctocat.com/ <img align="right" alt="MyOctocat" width="250px" src="/octocat.png" />
 
 **About Me:**
 
