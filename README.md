@@ -12,8 +12,6 @@
 <a href="https://twitter.com/math3mantic_">
   <img align="left" alt="Salih | Twitter" width="22px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" />
 </a>
-<br />
-<br />
 
 Hello, my name is **Salih Kilicli**. I am an Applied Mathematician and Aspiring Data Scientist 📈 📊 📉 This might sound crazy but I decided to leave my Ph.D. education in Mathematics @ Texas A&M University during a pandemic to be a Data Scientist/ML Engineer to follow my passion in Data Science & AI 🦾
 
@@ -22,9 +20,6 @@ Hello, my name is **Salih Kilicli**. I am an Applied Mathematician and Aspiring 
 I hope you liked my Texan 🇨🇱  Octocat. You can create yours using https://myoctocat.com/
 
 <img align="right" alt="MyOctocat" width="300px" src="/octocat.png" />
-
-<br />
-<br />
 
 ###
 
@@ -38,9 +33,6 @@ I hope you liked my Texan 🇨🇱  Octocat. You can create yours using https://
 - 📑  Here is my most recent [Resume](/Salih_Latex_Resume.pdf)
 
 ![Profile views](https://gpvc.arturio.dev/math3mantic)
-
-<br />
-<br />
 
 ###
 
