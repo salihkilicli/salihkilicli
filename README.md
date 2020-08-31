@@ -24,12 +24,10 @@ Hello, my name is Salih Kilicli. I am an Applied Mathematician and Aspiring Data
 **About Me:**
 
 - I’m currently following [Algorithms](https://www.coursera.org/specializations/algorithms?) & [Applied Data Science w/ Python](https://www.coursera.org/specializations/data-science-python?) specializations on [Coursera](https://www.coursera.org/) 
-- I’m looking for people to collaborate on Kaggle competitions
-- If you would like to build a team, contact me!
-- I love watching, and/or playing soccer in my spare time
-- Contact me using mrsalihkilicli@gmail.com
 - Here is my [resume](/Salih_Latex_Resume.pdf)
-
+- Contact me using mrsalihkilicli@gmail.com
+- If you would like to build a team, contact me!
+- I’m looking for people to collaborate on Kaggle competitions
 
 ![Profile views](https://gpvc.arturio.dev/math3mantic)
 
