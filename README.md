@@ -23,6 +23,11 @@ I hope you liked my Texan 🇨🇱  Octocat. You can create yours using https://
 
 <img align="right" alt="MyOctocat" width="300px" src="/octocat.png" />
 
+<br />
+<br />
+
+###
+
 **About Me:**
 
 - 📖  I'm currently learning [Algorithms](https://www.coursera.org/specializations/algorithms?) & [Applied Data Science w/ Python](https://www.coursera.org/specializations/data-science-python?) on [Coursera](https://www.coursera.org/user/157672adc56ebef7adde0712268a503f)
@@ -33,6 +38,9 @@ I hope you liked my Texan 🇨🇱  Octocat. You can create yours using https://
 - 📑  Here is my most recent [Resume](/Salih_Latex_Resume.pdf)
 
 ![Profile views](https://gpvc.arturio.dev/math3mantic)
+
+<br />
+<br />
 
 ###
 
