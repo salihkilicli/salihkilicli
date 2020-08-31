@@ -7,7 +7,7 @@
   <img align="left" alt="Salih | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.kaggle.com/math3mantic">
-  <img align="left" alt="Salih | Kaggle" width="22px" src="/images/dark_kaggle.png" />
+  <img align="left" alt="Salih | Kaggle" width="22px" src="/images/dark_kaggle.svg" />
 </a>
 <a href="https://twitter.com/math3mantic_">
   <img align="left" alt="Salih | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -18,7 +18,7 @@
 Hello, my name is Salih Kilicli. I am an Applied Mathematician and Aspiring Data Scientist 📈 📊 📉. This may sound crazy but I am leaving Ph.D. in Mathematics to be a Data Scientist to follow my passion and keep doing what I love to spend my time on most.
 
 ##
-<img align="right" alt="GIF" width="300px" src="https://i.pinimg.com/236x/dc/ef/3a/dcef3abedf0e0761203aaeb85886a6f3--jedi-knight-open-source.jpg" />
+<img align="right" alt="GIF" width="300px" src="/octocat.png" />
 
 **About Me:**
 
@@ -27,7 +27,7 @@ Hello, my name is Salih Kilicli. I am an Applied Mathematician and Aspiring Data
 - If you would like to build a team, contact me!
 - I love watching, and/or playing soccer in my spare time
 - How to reach me: mrsalihkilicli@gmail.com
-- [Resume](/files/Salih_Resume_30_Aug_2020.pdf)
+- [Resume](/files/Salih_Latex_Resume.pdf)
 
 
 ![Profile views](https://gpvc.arturio.dev/math3mantic)
