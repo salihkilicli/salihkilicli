@@ -15,7 +15,7 @@
 <br />
 <br />
 
-Hello, my name is Salih Kilicli. I am an Applied Mathematician and Aspiring Data Scientist 📈 📊 📉. This may sound crazy but I am leaving Ph.D. in Mathematics to be a Data Scientist to follow my passion and keep doing what I love to spend my time on most.
+Hello, my name is Salih Kilicli. I am an Applied Mathematician and Aspiring Data Scientist 📈 📊 📉. This may sound crazy but I am decided leave my Ph.D. in Mathematics during a pandemic to be a Data Scientist and follow my passion & keep doing what I love learning about most.
 
 ##
 
