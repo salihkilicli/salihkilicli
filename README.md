@@ -10,7 +10,7 @@
   <img align="left" alt="Salih | Kaggle" width="22px" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" />
 </a>
 <a href="https://twitter.com/math3mantic_">
-  <img align="left" alt="Salih | Twitter" width="22px" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" />
+  <img align="left" alt="Salih | Twitter" width="22px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" />
 </a>
 <br />
 <br />
