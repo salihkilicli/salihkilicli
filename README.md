@@ -7,7 +7,7 @@
   <img align="left" alt="Salih | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.kaggle.com/math3mantic">
-  <img align="left" alt="Salih | Kaggle" width="22px" src="/images/dark_kaggle.svg" />
+  <img align="left" alt="Salih | Kaggle" width="22px" src="/dark_kaggle.svg" />
 </a>
 <a href="https://twitter.com/math3mantic_">
   <img align="left" alt="Salih | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -19,7 +19,7 @@ Hello, my name is Salih Kilicli. I am an Applied Mathematician and Aspiring Data
 
 ##
 
-<img align="right" alt="GIF" width="200px" src="/octocat.png" />
+<img align="right" alt="GIF" width="250px" src="/octocat.png" />
 
 **About Me:**
 
@@ -28,7 +28,7 @@ Hello, my name is Salih Kilicli. I am an Applied Mathematician and Aspiring Data
 - If you would like to build a team, contact me!
 - I love watching, and/or playing soccer in my spare time
 - How to reach me: mrsalihkilicli@gmail.com
-- [Resume](/files/Salih_Latex_Resume.pdf)
+- [Resume](/Salih_Latex_Resume.pdf)
 
 
 ![Profile views](https://gpvc.arturio.dev/math3mantic)
