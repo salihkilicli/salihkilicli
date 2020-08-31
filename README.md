@@ -20,12 +20,12 @@ Hello, my name is Salih Kilicli. I am an Applied Mathematician and Aspiring Data
 ##
 
 You can create your own octocat using https://myoctocat.com/
-<img align="right" alt="GIF" width="250px" src="/octocat.png" />
+<img align="right" alt="MyOctocat" width="250px" src="/octocat.png" />
 
 **About Me:**
 
 - Currently following [Algorithms](https://www.coursera.org/specializations/algorithms?) & [Applied Data Science w/ Python](https://www.coursera.org/specializations/data-science-python?) specializations on <a href="https://www.coursera.org/user/157672adc56ebef7adde0712268a503f">
-  <img align="right" alt="Salih | Coursera" width="22px" src="https://www.vectorlogo.zone/logos/coursera/coursera-icon.svg" />
+  <img align="" alt="Salih | Coursera" width="22px" src="https://www.vectorlogo.zone/logos/coursera/coursera-icon.svg" />
 </a>
 - I’m looking for people to collaborate on Kaggle competitions
 - If you would like to build a team, contact me!
