@@ -27,8 +27,8 @@ Hello, my name is Salih Kilicli. I am an Applied Mathematician and Aspiring Data
 - I’m looking for people to collaborate on Kaggle competitions
 - If you would like to build a team, contact me!
 - I love watching, and/or playing soccer in my spare time
-- How to reach me: mrsalihkilicli@gmail.com
-- [Resume](/Salih_Latex_Resume.pdf)
+- [Contact](/dark_gmail.svg): mrsalihkilicli@gmail.com
+- Here is my [Resume](/Salih_Latex_Resume.pdf)
 
 
 ![Profile views](https://gpvc.arturio.dev/math3mantic)
