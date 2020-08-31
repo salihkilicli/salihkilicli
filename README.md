@@ -25,7 +25,8 @@ I hope you liked my Texan 🇨🇱 Octocat. You can create yours using https://m
 
 **About Me:**
 
-- 📚 I'm currently following [Algorithms](https://www.coursera.org/specializations/algorithms?) & [Applied Data Science w/ Python](https://www.coursera.org/specializations/data-science-python?) on [Coursera](https://www.coursera.org/user/157672adc56ebef7adde0712268a503f)
+- 📚 I'm currently learning [Algorithms](https://www.coursera.org/specializations/algorithms?) & [Applied Data Science w/ Python](https://www.coursera.org/specializations/data-science-python?) on [Coursera](https://www.coursera.org/user/157672adc56ebef7adde0712268a503f)
+- I previously finished [ML](https://www.coursera.org/account/accomplishments/records/E2EHKPQW7DYF) and [DL](https://www.coursera.org/account/accomplishments/specialization/JBUU2DMS9344) specialization by Andrew Ng on [Coursera](https://www.coursera.org)
 - 🎖 I’m looking for people to collaborate on Kaggle competitions
 - 🙏 If you would like to build a team, please contact me!
 - 📨 You contact me using mrsalihkilicli@gmail.com
