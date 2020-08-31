@@ -1,4 +1,4 @@
-### Hey! 🙋‍♂️ I'm [Salih!](https://www.salihkilicli.github.io)  & I love [Data :)](https://www.kaggle.com/math3mantic)
+## Hey! 🙋‍♂️ I'm [Salih!](https://www.salihkilicli.github.io)  & I love [Data :)](https://www.kaggle.com/math3mantic)
 
 <a href="https://github.com/math3mantic">
   <img align="left" alt="Salih | Github" width="22px" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" />
