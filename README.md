@@ -1,16 +1,16 @@
 ### Hi! I'm [Salih!](https://www.salihkilicli.github.io) I love [Data :)](https://www.kaggle.com/math3mantic)
 
 <a href="https://github.com/math3mantic">
-  <img align="left" alt="Salih | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Salih | Github" width="22px" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" />
 </a>
 <a href="https://www.linkedin.com/in/salihkilicli/">
-  <img align="left" alt="Salih | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Salih | LinkedIn" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />
 </a>
 <a href="https://www.kaggle.com/math3mantic">
-  <img align="left" alt="Salih | Kaggle" width="22px" src="/dark_kaggle.svg" />
+  <img align="left" alt="Salih | Kaggle" width="22px" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" />
 </a>
 <a href="https://twitter.com/math3mantic_">
-  <img align="left" alt="Salih | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Salih | Twitter" width="22px" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" />
 </a>
 <br />
 <br />
