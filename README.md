@@ -18,7 +18,8 @@
 Hello, my name is Salih Kilicli. I am an Applied Mathematician and Aspiring Data Scientist 📈 📊 📉. This may sound crazy but I am leaving Ph.D. in Mathematics to be a Data Scientist to follow my passion and keep doing what I love to spend my time on most.
 
 ##
-<img align="right" alt="GIF" width="300px" src="/octocat.png" />
+
+<img align="right" alt="GIF" width="200px" src="/octocat.png" />
 
 **About Me:**
 
