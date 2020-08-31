@@ -15,10 +15,11 @@
 <br />
 <br />
 
-Hello, my name is Salih Kilicli. I am an Applied Mathematician and Aspiring Data Scientist 📈 📊 📉. This may sound crazy but I decided leave my Ph.D. education in Mathematics @ Texas A&M University during a pandemic to be a Data Scientist/ML Engineer and follow my passion in AI & keep doing what I love learning about most.
+Hello, my name is Salih Kilicli. I am an Applied Mathematician and Aspiring Data Scientist 📈 📊 📉. This may sound crazy but I decided to leave my Ph.D. education in Mathematics @ Texas A&M University during a pandemic to be a Data Scientist/ML Engineer to follow my passion in AI.
 
 ##
 
+You can create your own octocat using https://myoctocat.com/
 <img align="right" alt="GIF" width="250px" src="/octocat.png" />
 
 **About Me:**
