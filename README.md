@@ -23,11 +23,11 @@ I hope you liked my Texan 🇨🇱 Octocat.  Actually, you can create your own u
 
 **About Me:**
 
-- Currently following [Algorithms](https://www.coursera.org/specializations/algorithms?) & [Applied Data Science w/ Python](https://www.coursera.org/specializations/data-science-python?) specializations on [Coursera](https://www.coursera.org/user/157672adc56ebef7adde0712268a503f)
-- I’m looking for people to collaborate on Kaggle competitions
-- If you would like to build a team, contact me!
-- You contact me using mrsalihkilicli@gmail.com
-- Here is my [resume](/Salih_Latex_Resume.pdf)
+- 📚 I'm currently learning [Algorithms](https://www.coursera.org/specializations/algorithms?) & [Applied Data Science w/ Python](https://www.coursera.org/specializations/data-science-python?) specializations on [Coursera](https://www.coursera.org/user/157672adc56ebef7adde0712268a503f)
+- 🎖 I’m looking for people to collaborate on Kaggle competitions
+- 🙏 If you would like to build a team, contact me!
+- 📨 You contact me using mrsalihkilicli@gmail.com
+- 📑 Here is my [resume](/Salih_Latex_Resume.pdf)
 
 ![Profile views](https://gpvc.arturio.dev/math3mantic)
 
