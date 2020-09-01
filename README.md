@@ -26,7 +26,7 @@ I hope you liked my Texan 🇨🇱  Octocat. You can create yours using https://
 
 ###
 
-**About Me:**
+### About Me:
 
 - 📖  &nbsp; I'm currently learning [Algorithms](https://www.coursera.org/specializations/algorithms?) & [Applied Data Science w/ Python](https://www.coursera.org/specializations/data-science-python?) on [Coursera](https://www.coursera.org/user/157672adc56ebef7adde0712268a503f)
 - 📚  &nbsp; I previously finished [ML](https://www.coursera.org/account/accomplishments/records/E2EHKPQW7DYF) and [DL](https://www.coursera.org/account/accomplishments/specialization/JBUU2DMS9344) specialization by Andrew Ng on [Coursera](https://www.coursera.org)
@@ -37,9 +37,7 @@ I hope you liked my Texan 🇨🇱  Octocat. You can create yours using https://
 
 ![Profile views](https://gpvc.arturio.dev/math3mantic)
 
-###
-
-**Programming Skills:**  
+### Programming Skills:  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png"></code>
