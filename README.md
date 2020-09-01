@@ -13,6 +13,9 @@
   <img align="left" alt="Salih | Twitter" width="22px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" />
 </a>
 
+<br />
+<br />
+
 Hello, my name is **Salih Kilicli**. I am an Applied Mathematician and Aspiring Data Scientist 📈 📊 📉 This might sound crazy but I decided to leave my Ph.D. education in Mathematics @ Texas A&M University during a pandemic to be a Data Scientist/ML Engineer to follow my passion in Data Science & AI 🦾
 
 #### Personal Octocat 🐙🐱!
