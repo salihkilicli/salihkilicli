@@ -31,7 +31,7 @@ I hope you liked my Texan 🇨🇱  Octocat. You can create yours using https://
 - 🎖 &nbsp; I’m looking for people to collaborate on Kaggle competitions
 - 🙏 &nbsp; If you would like to build a team, please contact me!
 - 📨 &nbsp; You contact me using mrsalihkilicli@gmail.com
-- 📑 &nbsp; Here is my most recent [Resume](/Salih_Latex_Resume.pdf)
+- 📑 &nbsp; Here is my most recent [Resume](/Salih_Resume_LaTeX.pdf)
 
 ![Profile views](https://gpvc.arturio.dev/math3mantic)
 
