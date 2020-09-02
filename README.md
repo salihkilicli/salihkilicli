@@ -1,16 +1,16 @@
 # Hey! 🙋‍♂️ I'm [Salih!](https://www.salihkilicli.github.io)  & I love [Data :)](https://www.kaggle.com/math3mantic)
 
 <a href="https://github.com/math3mantic">
-  <img align="left" alt="Salih | Github" width="22px" src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" />
+  <img align="left" alt="Salih | Github" width="25px" src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" />
 </a>
 <a href="https://www.linkedin.com/in/salihkilicli/">
-  <img align="left" alt="Salih | LinkedIn" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />
+  <img align="left" alt="Salih | LinkedIn" width="25px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" />
 </a>
 <a href="https://www.kaggle.com/math3mantic">
-  <img align="left" alt="Salih | Kaggle" width="22px" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" />
+  <img align="left" alt="Salih | Kaggle" width="25px" src="https://www.iconbolt.com/iconsets/font-awesome-brands/kaggle.svg" />
 </a>
 <a href="https://twitter.com/math3mantic_">
-  <img align="left" alt="Salih | Twitter" width="22px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" />
+  <img align="left" alt="Salih | Twitter" width="25px" src="https://cdn.worldvectorlogo.com/logos/twitter-3.svg" />
 </a>
 
 <br />
