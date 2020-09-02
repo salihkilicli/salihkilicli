@@ -1,7 +1,7 @@
 # Hey! 🙋‍♂️ I'm [Salih!](https://www.salihkilicli.github.io)  & I love [Data :)](https://www.kaggle.com/math3mantic)
 
 <a href="https://github.com/math3mantic">
-  <img align="left" alt="Salih | Github" width="22px" src="https://seeklogo.com/images/G/github-mark-logo-BF9B96FEA9-seeklogo.com.png" />
+  <img align="left" alt="Salih | Github" width="22px" src="https://cdn.worldvectorlogo.com/logos/github-icon.svg" />
 </a>
 <a href="https://www.linkedin.com/in/salihkilicli/">
   <img align="left" alt="Salih | LinkedIn" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />
