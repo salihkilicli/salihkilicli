@@ -7,7 +7,7 @@
   <img align="left" alt="Salih | LinkedIn" width="25px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" />
 </a>
 <a href="https://www.kaggle.com/math3mantic">
-  <img align="left" alt="Salih | Kaggle" width="25px" src="https://www.iconbolt.com/iconsets/font-awesome-brands/kaggle.svg" />
+  <img align="left" alt="Salih | Kaggle" width="12px" src="https://www.iconbolt.com/iconsets/font-awesome-brands/kaggle.svg" />
 </a>
 <a href="https://twitter.com/math3mantic_">
   <img align="left" alt="Salih | Twitter" width="25px" src="https://cdn.worldvectorlogo.com/logos/twitter-3.svg" />
