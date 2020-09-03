@@ -22,7 +22,7 @@ Hello, my name is **Salih Kilicli**. I am an Applied Mathematician and Aspiring 
 
 I hope you liked my Texan 🇨🇱  Octocat. You can create yours using https://myoctocat.com/
 
-<img align="right" alt="MyOctocat" width="300px" src="/octocat.png" />
+<img align="right" alt="MyOctocat" width="300px" src="https://github.com/math3mantic/math3mantic/blob/master/octocat.png" />
 
 ### About Me:
 
@@ -31,7 +31,7 @@ I hope you liked my Texan 🇨🇱  Octocat. You can create yours using https://
 - 🎖 &nbsp; I’m looking for people to collaborate on Kaggle competitions
 - 🙏 &nbsp; If you would like to build a team, please contact me!
 - 📨 &nbsp; You contact me using mrsalihkilicli@gmail.com
-- 📑 &nbsp; Here is my most recent [Resume](/Salih_Resume_LaTeX.pdf)
+- 📑 &nbsp; Here is my most recent [Resume](https://github.com/math3mantic/math3mantic/blob/master/Salih_Resume_LaTeX.pdf)
 
 ![Profile views](https://gpvc.arturio.dev/math3mantic)
 
