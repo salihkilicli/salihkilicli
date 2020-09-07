@@ -16,7 +16,7 @@
 <br />
 <br />
 
-Hello, my name is **Salih Kilicli**. I am an Applied Mathematician and Aspiring Data Scientist 📈 📊 📉 This might sound crazy but I decided to leave my Ph.D. education in Mathematics @ Texas A&M University during a pandemic to be a Data Scientist/ML Engineer to follow my passion in Data Science & AI 🦾
+Hello, my name is **Salih Kilicli**. I am an Applied Mathematician and Aspiring Data Scientist 📈 📊 📉 This might sound crazy but I decided to leave my Ph.D. education in Mathematics @ Texas A&M University during a pandemic to be a Data Scientist/ML Engineer to follow my passion in Data Science & AI 🦾 I will be sharing my experience and knowledge in Data Science & ML & DL on my website https://math3mantic.github.io/ and my medium account https://medium.com/@math3mantic.
 
 ### Personal Octocat 🐙🐱!
 
