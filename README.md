@@ -16,13 +16,13 @@
 <br />
 <br />
 
-Hello, my name is **Salih Kilicli**. I am an Applied Mathematician and Aspiring Data Scientist 📈 📊 📉 This might sound crazy but I decided to leave my Ph.D. education in Mathematics @ Texas A&M University during a pandemic to be a Data Scientist/ML Engineer to follow my passion in Data Science & AI 🦾 I will be sharing my experience and knowledge in Data Science & ML & DL on my personal [website](https://math3mantic.github.io/) and my [Medium](https://medium.com/@math3mantic) account.
+Hello, my name is **Salih Kilicli**. I am an Applied Mathematician and Aspiring Data Scientist 📈 📊 📉 This might sound crazy but I decided to leave my Ph.D. education in Mathematics @ Texas A&M University during a pandemic to be a Data Scientist/ML Engineer to follow my passion in Data Science & AI 🦾 I will be sharing my experience and knowledge in Data Science & ML & DL on my personal [website](https://salihkilicli.github.io/) and my [Medium](https://medium.com/@math3mantic) account.
 
 ### Personal Octocat 🐙🐱!
 
 I hope you liked my Texan 🇨🇱  Octocat. You can create yours using https://myoctocat.com/
 
-<img align="right" alt="MyOctocat" width="300px" src="https://github.com/math3mantic/math3mantic/blob/master/octocat.png" />
+<img align="right" alt="MyOctocat" width="300px" src="https://github.com/salihkilicli/salihkilicli/blob/master/octocat.png" />
 
 ### About Me:
 
@@ -31,9 +31,9 @@ I hope you liked my Texan 🇨🇱  Octocat. You can create yours using https://
 - 🎖 &nbsp; I’m looking for people to collaborate on Kaggle competitions
 - 🙏 &nbsp; If you would like to build a team, please contact me!
 - 📨 &nbsp; You contact me using mrsalihkilicli@gmail.com
-- 📑 &nbsp; Here is my most recent [Resume](https://github.com/math3mantic/math3mantic/blob/master/Salih_Resume_LaTeX.pdf)
+- 📑 &nbsp; Here is my most recent [Resume](https://github.com/salihkilicli/salihkilicli/blob/master/Salih_Resume_LaTeX.pdf)
 
-![Profile views](https://gpvc.arturio.dev/math3mantic)
+![Profile views](https://gpvc.arturio.dev/salihkilicli)
 
 ### Programming Skills:  
 
@@ -45,4 +45,4 @@ I hope you liked my Texan 🇨🇱  Octocat. You can create yours using https://
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 
-![Salih Github Stats](https://github-readme-stats.vercel.app/api?username=math3mantic&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Salih Github Stats](https://github-readme-stats.vercel.app/api?username=salihkilicli&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
