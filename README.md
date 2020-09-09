@@ -33,7 +33,7 @@ I hope you liked my Texan 🇨🇱  Octocat. You can create yours using https://
 - 📨 &nbsp; You contact me using mrsalihkilicli@gmail.com
 - 📑 &nbsp; Here is my most recent [Resume](https://github.com/salihkilicli/salihkilicli/blob/master/Salih_Resume_LaTeX.pdf)
 
-<img align="left" alt="View Count" width="100px" src="https://gpvc.arturio.dev/salihkilicli"/>
+![View Count](https://gpvc.arturio.dev/salihkilicli)
 
 
 ### Programming Skills:  
