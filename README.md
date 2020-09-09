@@ -14,11 +14,11 @@
 </a>
 
 <br />
+<br />
 
 Hello, my name is **Salih Kilicli**. I am an Applied Mathematician and Aspiring Data Scientist 📈 📊 📉 This might sound crazy but I decided to leave my Ph.D. education in Mathematics @ Texas A&M University during a pandemic to be a Data Scientist/ML Engineer to follow my passion in Data Science & AI 🦾  I will be sharing my experience and knowledge in Data Science, ML & DL on my personal [website](https://salihkilicli.github.io/) and my [Medium](https://medium.com/@math3mantic) account.
 
 ### Personal Octocat! 🐙🐱 <img align="right" alt="MyOctocat" height =" 300px" width="300px" src="https://github.com/salihkilicli/salihkilicli/blob/master/octocat.png" />
-
 
 I hope you liked my Texan 🇨🇱  Octocat. You can create yours using https://myoctocat.com/
 
@@ -33,7 +33,7 @@ I hope you liked my Texan 🇨🇱  Octocat. You can create yours using https://
 
 ![View Count](https://gpvc.arturio.dev/salihkilicli)
 
-### Programming Skills:  <img align='right' src="https://github.com/salihkilicli/salihkilicli/blob/master/Experience.png" alt="Pie Chart" width="30%">
+### Programming Skills:  <img align='right' src="https://github.com/salihkilicli/salihkilicli/blob/master/Experience.png" alt="Pie Chart" width="35%">
 
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png"></code>
