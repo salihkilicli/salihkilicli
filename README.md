@@ -21,8 +21,9 @@ Hello, my name is **Salih Kilicli**. I am an Applied Mathematician and Aspiring 
 ### Personal Octocat! 🐙🐱
 
 I hope you liked my Texan 🇨🇱  Octocat. You can create yours using https://myoctocat.com/
-
 <img align="right" alt="MyOctocat" height =" 300px" width="300px" src="https://github.com/salihkilicli/salihkilicli/blob/master/octocat.png" />
+
+<br />
 
 ### About Me:
 
@@ -35,6 +36,7 @@ I hope you liked my Texan 🇨🇱  Octocat. You can create yours using https://
 
 ![View Count](https://gpvc.arturio.dev/salihkilicli)
 
+<br />
 
 ### Programming Skills:  
 
