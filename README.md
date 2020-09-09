@@ -46,17 +46,7 @@ I hope you liked my Texan 🇨🇱  Octocat. You can create yours using https://
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 
-<div class="row">
-  <div class="column">
-    <img src="https://github-readme-stats.vercel.app/api?username=salihkilicli&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Stats">
-  </div>
-  <div class="column">
-    <img src="https://github.com/salihkilicli/salihkilicli/blob/master/Experience.png" alt="Pie Chart">
-  </div>
-</div>
-
-<!---![Salih Github Stats]--->
-
-<!---<img align="left" alt="Programming Pie" height="600px" width="400px" src="https://github-readme-stats.vercel.app/api?username=salihkilicli&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />--->
-
-<!---<img align="right" alt="Programming Pie" width="400px" src="https://github.com/salihkilicli/salihkilicli/blob/master/Experience.png" />--->
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=salihkilicli&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Stats" width="100">
+  <img src="https://github.com/salihkilicli/salihkilicli/blob/master/Experience.png" alt="Pie Chart">
+</p>
