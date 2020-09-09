@@ -22,7 +22,7 @@ Hello, my name is **Salih Kilicli**. I am an Applied Mathematician and Aspiring 
 
 I hope you liked my Texan 🇨🇱  Octocat. You can create yours using https://myoctocat.com/
 
-<img align="right" alt="MyOctocat" height="400px" width="300px" src="https://github.com/salihkilicli/salihkilicli/blob/master/octocat.png" />
+<img align="right" alt="MyOctocat" width="300px" src="https://github.com/salihkilicli/salihkilicli/blob/master/octocat.png" />
 
 ### About Me:
 
@@ -48,7 +48,7 @@ I hope you liked my Texan 🇨🇱  Octocat. You can create yours using https://
 
 <!---![Salih Github Stats]--->
 
-<img align="left" alt="Programming Pie" height="500px" width="500px" src="https://github-readme-stats.vercel.app/api?username=salihkilicli&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+<img align="left" alt="Programming Pie" width="500px" src="https://github-readme-stats.vercel.app/api?username=salihkilicli&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 
-<img align="right" alt="Programming Pie" height="300px" width="300px" src="https://github.com/salihkilicli/salihkilicli/blob/master/Experience.png" />
+<img align="right" alt="Programming Pie" width="300px" src="https://github.com/salihkilicli/salihkilicli/blob/master/Experience.png" />
 
