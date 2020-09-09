@@ -48,7 +48,7 @@ I hope you liked my Texan 🇨🇱  Octocat. You can create yours using https://
 
 <!---![Salih Github Stats]--->
 
-<img align="left" alt="Programming Pie" height="300px" width="600px" src="https://github-readme-stats.vercel.app/api?username=salihkilicli&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+<img align="left" alt="Programming Pie" height="300px" width="500px" src="https://github-readme-stats.vercel.app/api?username=salihkilicli&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 
 <img align="right" alt="Programming Pie" height="300px" width="300px" src="https://github.com/salihkilicli/salihkilicli/blob/master/Experience.png" />
 
