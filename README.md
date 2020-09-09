@@ -33,7 +33,7 @@ I hope you liked my Texan 🇨🇱  Octocat. You can create yours using https://
 
 ![View Count](https://gpvc.arturio.dev/salihkilicli)
 
-### Programming Skills:  <img align='right' src="https://github.com/salihkilicli/salihkilicli/blob/master/Experience.png" alt="Pie Chart" width="35%">
+### Programming Skills:  <img align='right' src="https://github.com/salihkilicli/salihkilicli/blob/master/Experience.png" alt="Pie Chart" width="30%">
 
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png"></code>
