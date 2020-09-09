@@ -22,7 +22,7 @@ Hello, my name is **Salih Kilicli**. I am an Applied Mathematician and Aspiring 
 
 I hope you liked my Texan 🇨🇱  Octocat. You can create yours using https://myoctocat.com/
 
-<img align="right" alt="MyOctocat" height =" 300" width="300px" src="https://github.com/salihkilicli/salihkilicli/blob/master/octocat.png" />
+<img align="right" alt="MyOctocat" height =" 200" width="300px" src="https://github.com/salihkilicli/salihkilicli/blob/master/octocat.png" />
 
 ### About Me:
 
