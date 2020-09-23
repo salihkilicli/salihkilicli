@@ -24,7 +24,7 @@ I hope you liked my Texan 🇨🇱  Octocat. You can create yours using https://
 
 ### About Me:
 
-- 📖  &nbsp; I'm currently following [Applied Data Science w/ Python](https://www.coursera.org/specializations/data-science-python?) by UMICH on [Coursera](https://www.coursera.org/user/157672adc56ebef7adde0712268a503f) and reading [Hands-on ML with scikit-learn, Keras & TF2.0](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646) as well as [Practical Statistics for DS](Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python) books.
+- 📖  &nbsp; I'm currently following [Applied Data Science w/ Python](https://www.coursera.org/specializations/data-science-python?) by UMICH on [Coursera](https://www.coursera.org/user/157672adc56ebef7adde0712268a503f) and reading [Hands-on ML with scikit-learn, Keras & TF2.0](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646) as well as [Practical Statistics for DS](https://www.amazon.com/Practical-Statistics-Data-Scientists-Essential/dp/149207294X/ref=sr_1_1?crid=2ZX21D7JMHS5Q&dchild=1&keywords=practical+statistics+for+data+scientists&qid=1600885350&s=books&sprefix=practical+statist%2Cstripbooks%2C483&sr=1-1) books.
 - 📚  &nbsp; I previously finished [ML](https://www.coursera.org/account/accomplishments/records/E2EHKPQW7DYF), [DL](https://www.coursera.org/account/accomplishments/specialization/JBUU2DMS9344) specialization by Andrew Ng on [Coursera](https://www.coursera.org) and almost all (12/15 so far) Kaggle [mini-courses](https://www.kaggle.com/learn/overview).
 - 🎖 &nbsp; I’m looking for people to collaborate on Kaggle competitions
 - 🙏 &nbsp; If you would like to build a team, please contact me!
