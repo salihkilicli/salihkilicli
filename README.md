@@ -32,8 +32,8 @@ I hope you liked my Texan 🇨🇱  Octocat. You can create yours [@ myoctocat.c
 - 🎖 &nbsp; I’m looking for people to collaborate on Kaggle competitions
 - 🙏 &nbsp; If you would like to build a team, please contact me!
 - 📨 &nbsp; You contact me using mrsalihkilicli@gmail.com
-- 📑 &nbsp; Here is my most recent resume: - [LaTeX](https://github.com/salihkilicli/salihkilicli/blob/master/Salih_Resume_LaTeX.pdf) 
-                                           - [GDoc](https://docs.google.com/document/d/1963UKJ9Nf_59HDKpltnhmTcUxd33oKk4upkKSmhc4kA/edit?ts=5f4fcffd)
+- 📑 &nbsp; Here is my most recent resume: 1) [LaTeX](https://github.com/salihkilicli/salihkilicli/blob/master/Salih_Resume_LaTeX.pdf) 
+                                           2) [GDoc](https://docs.google.com/document/d/1963UKJ9Nf_59HDKpltnhmTcUxd33oKk4upkKSmhc4kA/edit?ts=5f4fcffd)
 
 ![View Count](https://gpvc.arturio.dev/salihkilicli)
 
