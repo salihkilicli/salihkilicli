@@ -28,7 +28,7 @@ I hope you liked my Texan 🇨🇱  Octocat. You can create yours [@ myoctocat.c
   - Following [Applied Data Science w/ Python](https://www.coursera.org/specializations/data-science-python?) by UMICH on [Coursera](https://www.coursera.org/user/157672adc56ebef7adde0712268a503f) 
   - Reading [Hands-on ML with scikit-learn, Keras & TF2.0](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646) book.
   - Working on __Kaggle__ [competitions](https://www.kaggle.com/competitions).
-- 📚  &nbsp; I previously finished [ML](https://www.coursera.org/account/accomplishments/records/E2EHKPQW7DYF) course and [DL](https://www.coursera.org/account/accomplishments/specialization/JBUU2DMS9344) specialization by Andrew Ng on [Coursera](https://www.coursera.org) and almost all (14/15 so far) of the Kaggle [mini-courses](https://www.kaggle.com/learn/overview).
+- 📚  &nbsp; I previously finished [ML](https://www.coursera.org/account/accomplishments/records/E2EHKPQW7DYF) course and [DL](https://www.coursera.org/account/accomplishments/specialization/JBUU2DMS9344) specialization by Andrew Ng on [Coursera](https://www.coursera.org) and almost all (14/16 so far) of the Kaggle [mini-courses](https://www.kaggle.com/learn/overview).
 - 🎖 &nbsp; I’m looking for people to collaborate on Kaggle competitions
 - 🙏 &nbsp; If you would like to build a team, please contact me!
 - 📨 &nbsp; You contact me using mrsalihkilicli@gmail.com
