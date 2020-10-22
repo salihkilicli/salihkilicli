@@ -1,4 +1,4 @@
-# Hey! 🙋‍♂️ I'm [Salih!](https://salihkilicli.github.io/) & I love [Data! (:] 
+# Hey! 🙋‍♂️ I'm [Salih!](https://salihkilicli.github.io/) & I love Data! (:
 
 <!---(https://www.kaggle.com/math3mantic)--->
 
