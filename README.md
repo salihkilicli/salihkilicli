@@ -26,11 +26,13 @@ I hope you liked my Texan 🇨🇱  Octocat. You can create yours [@ myoctocat.c
 ### About Me:
 
 - 📖  &nbsp; I'm currently :
-  - On Coursera, I am following the courses:
+  - Following the courses below on Coursera:
     - [Applied Data Science w/ Python](https://www.coursera.org/specializations/data-science-python?) by UMICH,
     - [TensorFlow Developer Professional Certificate](https://www.coursera.org/professional-certificates/tensorflow-in-practice) by DeepLearning.AI.
   - Preparing for the [TensorFlow Developer Certification](https://www.tensorflow.org/certificate) Exam.
-  - Reading [Hands-on ML with scikit-learn, Keras & TF2.0](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646) book.
+  - Reading the books below:
+    - [Hands-on ML with scikit-learn, Keras & TF2.0](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646).
+    - [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python)
   - Working on __Kaggle__ [competitions](https://www.kaggle.com/competitions).
 - 📚  &nbsp; I previously finished [ML](https://www.coursera.org/account/accomplishments/records/E2EHKPQW7DYF) course and [DL](https://www.coursera.org/account/accomplishments/specialization/JBUU2DMS9344) specialization by Andrew Ng on [Coursera](https://www.coursera.org) and almost all (15/16 so far) of the Kaggle [mini-courses](https://www.kaggle.com/learn/overview).
 - 🎖 &nbsp; I’m looking for people to collaborate on Kaggle competitions
