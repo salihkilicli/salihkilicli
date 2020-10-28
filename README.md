@@ -1,7 +1,5 @@
 # Hey! 🙋‍♂️ I'm [Salih!](https://salihkilicli.github.io/) & I love Data! (:
 
-<!---(https://www.kaggle.com/math3mantic)--->
-
 <a href="https://github.com/salihkilicli">
   <img align="left" alt="Salih | Github" width="25px" src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" />
 </a>
@@ -33,7 +31,7 @@ I hope you liked my Texan 🇨🇱  Octocat. You can create yours [@ myoctocat.c
 - 📚  &nbsp; I previously finished [ML](https://www.coursera.org/account/accomplishments/records/E2EHKPQW7DYF) course and [DL](https://www.coursera.org/account/accomplishments/specialization/JBUU2DMS9344) specialization by Andrew Ng on [Coursera](https://www.coursera.org) and almost all (15/16 so far) of the Kaggle [mini-courses](https://www.kaggle.com/learn/overview).
 - 🎖 &nbsp; I’m looking for people to collaborate on Kaggle competitions
 - 🙏 &nbsp; If you would like to build a team, please contact me!
-- 📨 &nbsp; You contact me using mrsalihkilicli@gmail.com
+- 📨 &nbsp; You can contact me by sending an [email](mrsalihkilicli@gmail.com).
 - 📑 &nbsp; Here is my most recent resume: 1) [LaTeX](https://github.com/salihkilicli/salihkilicli/blob/master/Salih-Kilicli_TeX-Resume_Oc1_2020.pdf) 
                                            2) [GDoc](https://docs.google.com/document/d/1963UKJ9Nf_59HDKpltnhmTcUxd33oKk4upkKSmhc4kA/edit?ts=5f4fcffd)
 
@@ -46,10 +44,10 @@ I hope you liked my Texan 🇨🇱  Octocat. You can create yours [@ myoctocat.c
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<!--<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>-->
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png"></code>
-<!---<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>--->
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=salihkilicli&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Stats" width="62%">
