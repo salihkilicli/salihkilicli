@@ -35,7 +35,7 @@ I hope you liked my Texan 🇨🇱  Octocat. You can create yours [@ myoctocat.c
     - [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python)
   - Working on __Kaggle__ [competitions](https://www.kaggle.com/competitions).
 - 📚  &nbsp; I previously finished [ML](https://www.coursera.org/account/accomplishments/records/E2EHKPQW7DYF) course and [DL](https://www.coursera.org/account/accomplishments/specialization/JBUU2DMS9344) specialization by Andrew Ng on [Coursera](https://www.coursera.org) and almost all (15/16 so far) of the Kaggle [mini-courses](https://www.kaggle.com/learn/overview).
-- 🎖 &nbsp; I’m looking for people to collaborate on Kaggle competitions
+- 🎖 &nbsp; I’m looking for team members to collaborate on Kaggle competitions.
 - 🙏 &nbsp; If you would like to build a team, please contact me!
 - 📨 &nbsp; You can contact me by sending an [email](mrsalihkilicli@gmail.com).
 - 📑 &nbsp; Here is my most recent resume: 1) [LaTeX](https://github.com/salihkilicli/salihkilicli/blob/master/Salih-Kilicli_TeX-Resume_Oc1_2020.pdf) 
