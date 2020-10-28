@@ -4,7 +4,7 @@
   <img align="left" alt="Salih | Github" width="25px" src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" />
 </a>
 <a href="https://www.linkedin.com/in/salihkilicli/">
-  <img align="left" alt="Salih | LinkedIn" width="27px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" />
+  <img align="left" alt="Salih | LinkedIn" width="27px" src="https://cdn3.iconfinder.com/data/icons/address-book-providers-in-black-white/512/linkedin-512.png" />
 </a>
 <a href="https://www.kaggle.com/math3mantic">
   <img align="left" alt="Salih | Kaggle" width="15px" src="https://www.iconbolt.com/iconsets/font-awesome-brands/kaggle.svg" />
