@@ -30,7 +30,7 @@ I hope you liked my Texan 🇨🇱  Octocat. You can create yours [@ myoctocat.c
     - [Applied Data Science w/ Python](https://www.coursera.org/specializations/data-science-python?) by UMICH,
     - [TensorFlow Developer Professional Certificate](https://www.coursera.org/professional-certificates/tensorflow-in-practice) by DeepLearning.AI.
   - Preparing for the [TensorFlow Developer Certification](https://www.tensorflow.org/certificate) Exam.
-  - Reading the books below:
+  - Reading the books:
     - [Hands-on ML with scikit-learn, Keras & TF2.0](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646).
     - [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python)
   - Working on __Kaggle__ [competitions](https://www.kaggle.com/competitions).
