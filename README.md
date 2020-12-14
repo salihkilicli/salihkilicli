@@ -26,7 +26,7 @@ I hope you liked my Texan 🇨🇱  Octocat. You can create yours [@ myoctocat.c
 ### About Me:
 
 - 📖  &nbsp; I'm currently :
-  - Following the courses below on Coursera:
+  - Following the MOOC courses below:
     - [Applied Data Science w/ Python](https://www.coursera.org/specializations/data-science-python?) by __UMICH__,
     - [TensorFlow: Advanced Techniques Specialization](https://www.coursera.org/specializations/tensorflow-advanced-techniques?) by __Deeplearning.AI__,
     - [Machine Learning Engineer Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t) by __Udacity__,
