@@ -36,7 +36,7 @@ I hope you liked my Texan 🇨🇱 &nbsp; Octocat. You can create yours [@ myoct
     - [Hands-on ML with scikit-learn, Keras & TF2.0](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646)
   - Working on __Kaggle__ [competitions](https://www.kaggle.com/competitions) and __personal__ data science [projects](https://salihkilicli.github.io/index.html#projects).
 
-- 🏆  &nbsp; I finally took the [TensorFlow Developer Exam](https://www.credential.net/bbd5963f-94f6-472e-8042-efd114746357) and passed it with perfect score within 3-hours! Whoop!  
+- 🏆  &nbsp; I finally took the [TensorFlow Developer Exam](https://pdf.credential.net/n4kxxhvg.pdf) and passed it with perfect score within 3-hours! Whoop!  
 - 📚  &nbsp; I previously finished [ML](https://www.coursera.org/account/accomplishments/records/E2EHKPQW7DYF) & [DL](https://www.coursera.org/account/accomplishments/specialization/JBUU2DMS9344) courses by Andrew Ng, and [TensorFlow Developer Specialization](https://www.coursera.org/professional-certificates/tensorflow-in-practice?) by Laurence Moroney on [Coursera](https://www.coursera.org) as well as almost all (15/16) of the Kaggle [mini-courses](https://www.kaggle.com/learn/overview).
 - 🎖 &nbsp; I’m looking for team members to collaborate on Kaggle competitions.
 - 🙏 &nbsp; If you would like to build a team, please contact me!
