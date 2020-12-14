@@ -28,8 +28,8 @@ I hope you liked my Texan 🇨🇱  Octocat. You can create yours [@ myoctocat.c
 - 📖  &nbsp; I'm currently :
   - Following the courses below on Coursera:
     - [Applied Data Science w/ Python](https://www.coursera.org/specializations/data-science-python?) by UMICH,
-    - [TensorFlow Developer Professional Certificate](https://www.coursera.org/professional-certificates/tensorflow-in-practice) by DeepLearning.AI.
-  - Preparing for the [TensorFlow Developer Certification](https://www.tensorflow.org/certificate) Exam.
+    [x] [TensorFlow Developer Professional Certificate](https://www.coursera.org/professional-certificates/tensorflow-in-practice) by DeepLearning.AI.
+  [x] Preparing for the [TensorFlow Developer Certification](https://www.tensorflow.org/certificate) Exam.
   - Reading the books:
     - [Hands-on ML with scikit-learn, Keras & TF2.0](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646).
     - [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python)
