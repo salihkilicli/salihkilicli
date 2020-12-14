@@ -1,4 +1,4 @@
-# Hey! 🙋‍♂️ I'm [Salih!](https://salihkilicli.github.io/) & I love Data! (:
+# Hey! 🙋‍♂️ I'm [Salih!](https://salihkilicli.github.io/) & I love Deep Learning! (:
 
 <a href="https://github.com/salihkilicli">
   <img align="left" alt="Salih | Github" width="25px" src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" />
