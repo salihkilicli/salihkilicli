@@ -27,19 +27,21 @@ I hope you liked my Texan 🇨🇱  Octocat. You can create yours [@ myoctocat.c
 
 - 📖  &nbsp; I'm currently :
   - Following the courses below on Coursera:
-    - [Applied Data Science w/ Python](https://www.coursera.org/specializations/data-science-python?) by UMICH,
-    [x] [TensorFlow Developer Professional Certificate](https://www.coursera.org/professional-certificates/tensorflow-in-practice) by DeepLearning.AI.
-  [x] Preparing for the [TensorFlow Developer Certification](https://www.tensorflow.org/certificate) Exam.
-  - Reading the books:
-    - [Hands-on ML with scikit-learn, Keras & TF2.0](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646).
+    - [Applied Data Science w/ Python](https://www.coursera.org/specializations/data-science-python?) by __UMICH__,
+    - [TensorFlow: Advanced Techniques Specialization](https://www.coursera.org/specializations/tensorflow-advanced-techniques?) by __Deeplearning.AI__,
+    - [Machine Learning Engineer Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t) by __Udacity__,
+  - Rereading the books:
+    - [Hands-on ML with scikit-learn, Keras & TF2.0](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646)
     - [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python)
   - Working on __Kaggle__ [competitions](https://www.kaggle.com/competitions).
-- 📚  &nbsp; I previously finished [ML](https://www.coursera.org/account/accomplishments/records/E2EHKPQW7DYF) & [DL](https://www.coursera.org/account/accomplishments/specialization/JBUU2DMS9344) courses by Andrew Ng on [Coursera](https://www.coursera.org) and almost all (15/16) of the Kaggle [mini-courses](https://www.kaggle.com/learn/overview).
+  
+- 🏆  &nbsp; I finally take the TensorFlow Exam and passed it with perfect score within 3-hours! Whoop!  
+- 📚  &nbsp; I previously finished [ML](https://www.coursera.org/account/accomplishments/records/E2EHKPQW7DYF) & [DL](https://www.coursera.org/account/accomplishments/specialization/JBUU2DMS9344) courses by Andrew Ng, and [TensorFlow Developer Specialization](https://www.coursera.org/professional-certificates/tensorflow-in-practice?) by Laurence Moroney on [Coursera](https://www.coursera.org) as well as almost all (15/16) of the Kaggle [mini-courses](https://www.kaggle.com/learn/overview).
 - 🎖 &nbsp; I’m looking for team members to collaborate on Kaggle competitions.
 - 🙏 &nbsp; If you would like to build a team, please contact me!
 - 📨 &nbsp; You can contact me by sending an [email](mrsalihkilicli@gmail.com).
 - 📑 &nbsp; Here is my most recent resume: 1) [LaTeX](https://github.com/salihkilicli/salihkilicli/blob/master/Salih-Kilicli_TeX-Resume_Oc1_2020.pdf) 
-                                           2) [GDoc](https://docs.google.com/document/d/1963UKJ9Nf_59HDKpltnhmTcUxd33oKk4upkKSmhc4kA/edit?ts=5f4fcffd)
+                                           2) [GDocx](https://docs.google.com/document/d/1963UKJ9Nf_59HDKpltnhmTcUxd33oKk4upkKSmhc4kA/edit?ts=5f4fcffd)
 
 ![View Count](https://gpvc.arturio.dev/salihkilicli)
 
