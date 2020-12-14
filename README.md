@@ -28,8 +28,9 @@ I hope you liked my Texan 🇨🇱 &nbsp; Octocat. You can create yours [@ myoct
 - 📖  &nbsp; I'm currently :
   - Following the MOOC courses below:
     - [Applied Data Science w/ Python](https://www.coursera.org/specializations/data-science-python?) by __UMICH__,
-    - [TensorFlow: Advanced Techniques](https://www.coursera.org/specializations/tensorflow-advanced-techniques?) by __Deeplearning.AI__,
     - [Machine Learning Engineer Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t) by __Udacity__,
+    - [TensorFlow: Advanced Techniques](https://www.coursera.org/specializations/tensorflow-advanced-techniques?) by __Deeplearning.AI__,
+
   - Rereading the books:
     - [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python)
     - [Hands-on ML with scikit-learn, Keras & TF2.0](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646)
