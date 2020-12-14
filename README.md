@@ -44,7 +44,7 @@ I hope you liked my Texan 🇨🇱  Octocat. You can create yours [@ myoctocat.c
 - 🙏 &nbsp; If you would like to build a team, please contact me!
 - 📨 &nbsp; You can contact me by sending an [email](mrsalihkilicli@gmail.com).
 - 📑 &nbsp; Here is my most recent resume: 1) [LaTeX](https://github.com/salihkilicli/salihkilicli/blob/master/Salih-Kilicli_TeX-Resume_Oc1_2020.pdf) 
-                                           2) [GDocx](https://docs.google.com/document/d/1963UKJ9Nf_59HDKpltnhmTcUxd33oKk4upkKSmhc4kA/edit?ts=5f4fcffd)
+                                           2) [GDocX](https://docs.google.com/document/d/1963UKJ9Nf_59HDKpltnhmTcUxd33oKk4upkKSmhc4kA/edit?ts=5f4fcffd)
 
 ![View Count](https://gpvc.arturio.dev/salihkilicli)
 
