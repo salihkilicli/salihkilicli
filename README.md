@@ -32,10 +32,10 @@ I hope you liked my Texan 🇨🇱 &nbsp; Octocat. You can create yours [@ myoct
     - [Reinforcement Learning Specialization](https://www.coursera.org/specializations/reinforcement-learning) by __Univ. of Alberta__,
   
   - Reading the books:
-    [ ] [Reinforcement Learning, An Intro 2Ed](http://incompleteideas.net/book/RLbook2020.pdf)
-    [ ] [Deep Reinforcement Learning, Hands-on 2Ed](https://www.amazon.com/Deep-Reinforcement-Learning-Hands-optimization/dp/1838826998)
-    [x] [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python)
-    [x] [Hands-on ML with scikit-learn, Keras & TF2.0](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646)
+    - [ ] [Reinforcement Learning, An Intro 2Ed](http://incompleteideas.net/book/RLbook2020.pdf)
+    - [ ] [Deep Reinforcement Learning, Hands-on 2Ed](https://www.amazon.com/Deep-Reinforcement-Learning-Hands-optimization/dp/1838826998)
+    - [x] [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python)
+    - [x] [Hands-on ML with scikit-learn, Keras & TF2.0](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646)
    
   - Working on __Kaggle__ [competitions](https://www.kaggle.com/competitions) and __personal__ data science [projects](https://salihkilicli.github.io/index.html#projects).
 
