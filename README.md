@@ -16,7 +16,7 @@
 <br />
 <br />
 
-Hello, my name is **Salih Kilicli**. I am an Applied Mathematician and a Data Scientist intern at [Seeloz](https://www.seeloz.com/) 📈 📊 📉. &nbsp; This might sound crazy but I decided to leave my Ph.D. education in Mathematics @ Texas A&M University during the pandemic to be a Data Scientist | ML/DL Engineer to follow my passion for Data Science & AI. 🦾 &nbsp; I will be sharing my experience and knowledge in Data Science, ML & DL on my personal [website](https://salihkilicli.github.io/).
+Hello, my name is **Salih Kilicli**. I am an Applied Mathematician and a Data Scientist. I currently intern at Silicon Valley based supply-chain company [Seeloz AI](https://www.seeloz.com/) 📈 📊 📉. &nbsp; This might sound crazy but I decided to leave my Ph.D. education in Mathematics @ Texas A&M University during the pandemic to be a Data Scientist | ML/DL Engineer to follow my passion for Data Science & AI. 🦾 &nbsp; I will be sharing my experience and knowledge in Data Science, ML & DL on my personal [website](https://salihkilicli.github.io/). I keep my personal notes from the books / courses I already finished on my [Gitbook](https://salihkilicli.gitbook.io/notes/). I will update my notes as I find more spare time.
 <!--and my [Medium](https://medium.com/@math3mantic) account.-->
 
 ### Personal Octocat! 🐙🐱 <img align="right" alt="MyOctocat" height =" 300px" width="300px" src="https://github.com/salihkilicli/salihkilicli/blob/master/octocat.png" />
@@ -27,13 +27,16 @@ I hope you liked my Texan 🇨🇱 &nbsp; Octocat. You can create yours [@ myoct
 
 - 📖  &nbsp; I'm currently :
   - Following the MOOC courses below:
-    - [Applied Data Science w/ Python](https://www.coursera.org/specializations/data-science-python?) by __UMICH__,
-    - [Machine Learning Engineer Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t) by __Udacity__,
     - [TensorFlow: Advanced Techniques](https://www.coursera.org/specializations/tensorflow-advanced-techniques?) by __Deeplearning.AI__,
-
-  - Rereading the books:
-    - [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python)
-    - [Hands-on ML with scikit-learn, Keras & TF2.0](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646)
+    - [Machine Learning Engineer Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t) by __Udacity__,
+    - [Reinforcement Learning Specialization](https://www.coursera.org/specializations/reinforcement-learning) by __Univ. of Alberta__,
+  
+  - Reading the books:
+    [ ] [Reinforcement Learning, An Intro 2Ed](http://incompleteideas.net/book/RLbook2020.pdf)
+    [ ] [Deep Reinforcement Learning, Hands-on 2Ed](https://www.amazon.com/Deep-Reinforcement-Learning-Hands-optimization/dp/1838826998)
+    [x] [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python)
+    [x] [Hands-on ML with scikit-learn, Keras & TF2.0](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646)
+   
   - Working on __Kaggle__ [competitions](https://www.kaggle.com/competitions) and __personal__ data science [projects](https://salihkilicli.github.io/index.html#projects).
 
 - 🏆  &nbsp; I finally took the [TensorFlow Developer Exam](https://pdf.credential.net/n4kxxhvg.pdf) and passed it with perfect score within 3-hours! Whoop!  
