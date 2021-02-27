@@ -16,7 +16,7 @@
 <br />
 <br />
 
-Hello, my name is **Salih Kilicli**. I am an Applied Mathematician by passion and a Data Scientist by practice. I currently intern at Silicon Valley based supply-chain company [Seeloz AI](https://www.seeloz.com/) 📈 📊 📉 &nbsp;This might sound crazy but I decided to leave my Ph.D. education in Applied & Computational Mathematics @ Texas A&M University during the pandemic to be a Data Scientist | ML/DL Engineer to follow my passion for Data Science & AI. 🦾 &nbsp; During my graduate studies I worked on the intersection of Deep Learning and Generalized Multiscale Finite Element Methods (GMsFEM). Meanwhile, I received  Applied Statistics and Computational Sciences certificate and self-studied Machine a Deep Learning while working as a graduate teaching assistant, and help my students learn how to deal with Calculus I-II problems using Python & MATLAB, as well as Ordinary and Partial Differential Equations. I will be sharing my experience and knowledge in Data Science, ML & DL on my personal [website](https://salihkilicli.github.io/). I keep my personal notes from the books / courses I already finished on my [Gitbook](https://salihkilicli.gitbook.io/notes/). I will update my notes as I find more spare time.
+Hello, my name is **Salih Kilicli**. I am an Applied Mathematician by passion and a Data Scientist by practice. I currently intern at Silicon Valley-based supply-chain company [Seeloz AI](https://www.seeloz.com/) 📈 📊 📉 &nbsp; This might sound crazy but I decided to leave my Ph.D. education in Applied & Computational Mathematics @ Texas A&M University during the pandemic to be a Data Scientist | ML/DL Engineer to follow my passion for Data Science & AI. 🦾 &nbsp; During my graduate studies, I worked on the intersection of Deep Learning and Generalized Multiscale Finite Element Methods (GMsFEM). Meanwhile, I received  Applied Statistics and Computational Sciences certificate and self-studied Machine a Deep Learning while working as a graduate teaching assistant, and help my students learn how to deal with Calculus I-II problems using Python & MATLAB, as well as Ordinary and Partial Differential Equations. I will be sharing my experience and knowledge in Data Science, ML & DL on my personal [website](https://salihkilicli.github.io/). I keep my notes from the books/courses I already finished on my [Gitbook](https://salihkilicli.gitbook.io/notes/). I will update my notes as I find more spare time.
 <!--and my [Medium](https://medium.com/@math3mantic) account.-->
 
 ### Personal Octocat! 🐙🐱 <img align="right" alt="MyOctocat" height =" 300px" width="300px" src="https://github.com/salihkilicli/salihkilicli/blob/master/octocat.png" />
@@ -40,7 +40,7 @@ I hope you liked my Texan 🇨🇱 &nbsp; Octocat. You can create yours [@ myoct
    
   - Working on __Kaggle__ [competitions](https://www.kaggle.com/competitions) and __personal__ data science [projects](https://salihkilicli.github.io/index.html#projects).
 
-- 🏆  &nbsp; I finally took the [TensorFlow Developer Exam](https://pdf.credential.net/n4kxxhvg.pdf) and passed it with perfect score within 3-hours! Whoop!  
+- 🏆  &nbsp; I finally took the [TensorFlow Developer Exam](https://pdf.credential.net/n4kxxhvg.pdf) and passed it with the perfect score within 3-hours! Whoop!  
 - 📚  &nbsp; I previously finished [ML](https://www.coursera.org/account/accomplishments/records/E2EHKPQW7DYF) & [DL](https://www.coursera.org/account/accomplishments/specialization/JBUU2DMS9344) courses by Andrew Ng, and [TensorFlow Developer Specialization](https://www.coursera.org/professional-certificates/tensorflow-in-practice?) by Laurence Moroney on [Coursera](https://www.coursera.org) as well as almost all (15/16) of the Kaggle [mini-courses](https://www.kaggle.com/learn/overview).
 - 🎖 &nbsp; I’m looking for team members to collaborate on Kaggle competitions.
 - 🙏 &nbsp; If you would like to build a team, please contact me!
@@ -64,3 +64,5 @@ I hope you liked my Texan 🇨🇱 &nbsp; Octocat. You can create yours [@ myoct
 <!--<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>-->
 
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=salihkilicli&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Stats" width="62%">
+
+
