@@ -30,7 +30,6 @@ I hope you liked my Texan 🇨🇱 &nbsp; Octocat. You can create yours [@ myoct
 - 📖  &nbsp; I'm currently :
   - Following the MOOC courses below:
     - [TensorFlow: Advanced Techniques](https://www.coursera.org/specializations/tensorflow-advanced-techniques?) by __Deeplearning.AI__,
-    - [Machine Learning Engineer Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t) by __Udacity__,
     - [Reinforcement Learning Specialization](https://www.coursera.org/specializations/reinforcement-learning) by __Univ. of Alberta__,
     - [Natural Language Processing Specialization](https://www.coursera.org/specializations/natural-language-processing?) by __Deeplearning.AI__,
   
