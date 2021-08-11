@@ -35,7 +35,6 @@ I hope you liked my Texan 🇨🇱 &nbsp; Octocat. You can create yours [@ myoct
   
   - Reading the books:
     - [ ] [Speech and Language Processing - 3rd Ed (draft)](https://web.stanford.edu/~jurafsky/slp3/ed3book_dec302020.pdf)
-](http://incompleteideas.net/book/RLbook2020.pdf)
     - [ ] [Deep Learning for Coders with Fastai and PyTorch: AI Applications Without a PhD - 1st Ed](https://www.amazon.com/gp/product/1492045527/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1)
     - [x] [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python)
     - [x] [Hands-on ML with scikit-learn, Keras & TF2.0](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646)
