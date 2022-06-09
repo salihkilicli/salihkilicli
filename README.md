@@ -43,8 +43,6 @@ I hope you liked my Texan 🇨🇱 &nbsp; Octocat. You can create yours [@ myoct
 
 - 🏆  &nbsp; I finally took the [TensorFlow Developer Exam](https://pdf.credential.net/n4kxxhvg.pdf) and passed it with the perfect score within 3-hours! Whoop!  
 - 📚  &nbsp; I previously finished [ML](https://www.coursera.org/account/accomplishments/records/E2EHKPQW7DYF) & [DL](https://www.coursera.org/account/accomplishments/specialization/JBUU2DMS9344) courses by Andrew Ng, and [TensorFlow Developer Specialization](https://www.coursera.org/account/accomplishments/professional-cert/Q9FVEBDQ8335) by Laurence Moroney on [Coursera](https://www.coursera.org) as well as almost all (15/16) of the Kaggle [mini-courses](https://www.kaggle.com/learn/overview).
-- 🎖 &nbsp; I’m looking for team members to collaborate on Kaggle competitions.
-- 🙏 &nbsp; If you would like to build a team, please contact me!
 - 📨 &nbsp; You can contact me by sending an [email](mrsalihkilicli@gmail.com).
 - 📑 &nbsp; Here is my most recent resume: 1) [LaTeX](https://github.com/salihkilicli/salihkilicli/blob/master/Salih-Kilicli_TeX-Resume_Oc1_2020.pdf) 
                                            2) [GDocX](https://docs.google.com/document/d/1963UKJ9Nf_59HDKpltnhmTcUxd33oKk4upkKSmhc4kA/edit?ts=5f4fcffd)
